@@ -67,3 +67,18 @@ Este proyecto demuestra cómo un flujo de análisis bien estructurado puede conv
 - Además, los cambios en los horarios de mayor demanda entre 2024 y 2025 resaltan la importancia de ajustar personal y recursos de forma dinámica, alineando la operación con el comportamiento real de los clientes.
 
 En definitiva, este proyecto demuestra cómo el análisis de datos puede convertirse en una herramienta estratégica para maximizar ingresos, reducir riesgos de inventario y crear experiencias de compra más alineadas con los hábitos de consumo.
+
+---
+
+## 📂 Power BI Project  
+
+Este repositorio incluye el archivo de Power BI (`/powerbi/coffee_sales_analysis.pbix`) con el dashboard completo del análisis de ventas.  
+
+### 🔹 Cómo usarlo  
+1. Descarga el archivo desde este repositorio.  
+2. Ábrelo en **Power BI Desktop**.  
+3. Explora las visualizaciones interactivas y el modelo de datos.  
+
+### 🔗 Versión online  
+También puedes visualizar el dashboard de forma interactiva en Power BI Service:  
+[👉 Ver Dashboard en Power BI](https://app.powerbi.com/links/bWayxHob31?ctid=7e6c4c49-65ce-4561-8260-3ae3f578d9ac&pbi_source=linkShare)  
