@@ -37,7 +37,7 @@ El objetivo fue transformar datos crudos en insights claros que apoyen la toma d
    - Análisis temporal (día, semana, mes)  
    - Desempeño por producto y patrones de consumo  
 
-![Descripción de la imagen](./assets/dashboard.png)
+![Descripción de la imagen](./assets/Dashboard.png)
 
 ---
 
