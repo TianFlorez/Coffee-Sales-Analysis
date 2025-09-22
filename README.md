@@ -81,4 +81,4 @@ Este repositorio incluye el archivo de Power BI (`/powerbi/coffee_sales_analysis
 
 ### 🔗 Versión online  
 También puedes visualizar el dashboard de forma interactiva en Power BI Service:  
-[👉 Ver Dashboard en Power BI](https://app.powerbi.com/links/bWayxHob31?ctid=7e6c4c49-65ce-4561-8260-3ae3f578d9ac&pbi_source=linkShare)  
+[👉 Ver Dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDczNWU1ZDctOTVmNS00YmY1LTg2OGUtYzg4YTM4NTExOWE3IiwidCI6IjdlNmM0YzQ5LTY1Y2UtNDU2MS04MjYwLTNhZTNmNTc4ZDlhYyIsImMiOjR9)  
